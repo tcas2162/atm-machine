@@ -1,0 +1,14 @@
+h1 {
+  padding-left: 40px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  padding-left: 30px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
